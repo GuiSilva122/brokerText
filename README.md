@@ -27,9 +27,9 @@ use the functions of his new PC with an<br>
 80386 processor. Development was done on<br>
 MINIX using the GNU C Compiler.<br>
 
-**Instructions to run:**
-npm install
-node app.js
+**Instructions to run, run the following commands:**
+- npm install
+- node app.js
 
 **Instructions to run the test:**
-node test
+- node test
